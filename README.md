@@ -7,7 +7,7 @@
 I’m also a responsible && creative free-spirit  &nbsp; 🦄 &nbsp; , that loves to travel &nbsp;  ✈️ &nbsp; and get involved in the local cultures, addicted to Sci-fi &nbsp; 👽 &nbsp; 🛸&nbsp; movies && books , photography (nature && street photography)&nbsp; 📷 &nbsp;, and an assumed && proud 'cat-lady' of two fat Siamese cats. &nbsp;🐈&nbsp; 🐈‍⬛ <h4>
 <p>
 <br>
-<h5> P.S - This github is still under construction! &nbsp;🚧 &nbsp;👷🏽‍♀️ &nbsp; because the Bootcamp that I'm doing is consuming my soul &nbsp;🧟‍♀️&nbsp;, be merciful &nbsp;🫶🏼<h5>
+<h5> P.S - This github is still under construction! &nbsp;🚧 &nbsp;👷🏽‍♀️ &nbsp; because the Bootcamp that I'm doing is consuming my soul &nbsp;🧟‍♀️&nbsp;, please be merciful &nbsp;🫶🏼<h5>
 
 <!--
 **epicnessinha/epicnessinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
