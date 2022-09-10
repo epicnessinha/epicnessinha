@@ -7,6 +7,31 @@
 I’m also a responsible && creative free-spirit  &nbsp; 🦄 &nbsp; , that loves to travel &nbsp;  ✈️ &nbsp; and get involved in the local cultures, addicted to Sci-fi &nbsp; 👽 &nbsp; 🛸&nbsp; movies && books , photography (nature && street photography)&nbsp; 📷 &nbsp;, and an assumed && proud 'cat-lady' of two fat Siamese cats. &nbsp;🐈&nbsp; 🐈‍⬛ <h4>
 <p>
 <br>
+
+<div align="center">
+  <a href="https://github.com/deviniciuss">
+ <img width="400" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=deviniciuss&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img width="400" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deviniciuss&layout=compact&langs_count=8&theme=algolia"/>
+</div>
+  
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=epicnessinha.epicnessinha)
+
+<div style="display: inline_block"><br>
+  
+  
+
+
+</div>
+  
+  ##
+ 
+<div> 
+  
+  <a href="https://www.linkedin.com/in/vanessabio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
 <h5> P.S - This github is still under construction! &nbsp;🚧 &nbsp;👷🏽🏼<h5>
 
 <!--
