@@ -2,16 +2,16 @@
 <br>
 
 
-<h4> My name is Vanessa and I’m a Junior FullStack Developer && Biologist, passionate about tech  &nbsp; 💻 &nbsp; that decided to adventure into the Coding World and optimize my professional framework with some awesome programming skills. &nbsp; 👩🏻‍💻&nbsp;
+<h4> My name is Vanessa and I’m a Junior Software Developer && MSc in Applied Biology, passionate about tech  &nbsp; 💻 &nbsp; that decided to adventure into the Coding World and optimize my professional framework with some awesome programming skills. &nbsp; 👩🏻‍💻&nbsp;
 <br>
-I’m also a responsible && creative free-spirit  &nbsp; 🦄 &nbsp; , that loves to travel &nbsp;  ✈️ &nbsp; and get involved in the local cultures, addicted to Sci-fi &nbsp; 👽 &nbsp; 🛸&nbsp; movies && books , photography (nature && street photography)&nbsp; 📷 &nbsp;, and an assumed && proud 'cat-lady' of two fat Siamese cats. &nbsp;🐈&nbsp; 🐈‍⬛ <h4>
+I’m also a creative free-spirit  &nbsp; 🦄 &nbsp; , that loves to travel &nbsp;  ✈️ &nbsp; and get involved in the local cultures, addicted to Sci-fi &nbsp; 👽 &nbsp; 🛸&nbsp; movies && books , photography (nature && street photography)&nbsp; 📷 &nbsp;, and an assumed && proud 'cat-lady' of two fat Siamese cats. &nbsp;🐈&nbsp; 🐈‍⬛ <h4>
 <p>
 <br>
 
 <div align="center">
   <a href="https://github.com/deviniciuss">
- <img width="400" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=deviniciuss&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img width="400" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deviniciuss&layout=compact&langs_count=8&theme=algolia"/>
+ <img width="400" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=epicnessinha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img width="400" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=epicnessinha&layout=compact&langs_count=8&theme=algolia"/>
 </div>
   
   
@@ -23,14 +23,11 @@ I’m also a responsible && creative free-spirit  &nbsp; 🦄 &nbsp; , that love
   
 </div>
 
-<h5> P.S - This github is still under construction! &nbsp;🚧 &nbsp;👷🏽🏼<h5>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=epicnessinha.epicnessinha)
 
 <div style="display: inline_block"><br>
-  
-  
-
+ 
 
 </div>
 
