@@ -14,15 +14,6 @@ I’m also a responsible && creative free-spirit  &nbsp; 🦄 &nbsp; , that love
   <img width="400" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deviniciuss&layout=compact&langs_count=8&theme=algolia"/>
 </div>
   
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=epicnessinha.epicnessinha)
-
-<div style="display: inline_block"><br>
-  
-  
-
-
-</div>
   
   ##
  
@@ -33,6 +24,15 @@ I’m also a responsible && creative free-spirit  &nbsp; 🦄 &nbsp; , that love
 </div>
 
 <h5> P.S - This github is still under construction! &nbsp;🚧 &nbsp;👷🏽🏼<h5>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=epicnessinha.epicnessinha)
+
+<div style="display: inline_block"><br>
+  
+  
+
+
+</div>
 
 <!--
 **epicnessinha/epicnessinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
