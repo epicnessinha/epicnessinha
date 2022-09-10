@@ -2,7 +2,7 @@
 <br>
 
 
-<h4> My name is Vanessa and I’m a Junior Software Developer && Biologist, passionate about tech  &nbsp; 💻 &nbsp; that decided to adventure into the Coding World and optimize my professional framework with some awesome programming skills. &nbsp; 👩🏻‍💻&nbsp;
+<h4> My name is Vanessa and I’m a Junior FullStack Developer && Biologist, passionate about tech  &nbsp; 💻 &nbsp; that decided to adventure into the Coding World and optimize my professional framework with some awesome programming skills. &nbsp; 👩🏻‍💻&nbsp;
 <br>
 I’m also a creative free-spirit  &nbsp; 🦄 &nbsp; , that loves to travel &nbsp;  ✈️ &nbsp; and get involved in the local cultures, addicted to Sci-fi &nbsp; 👽 &nbsp; 🛸&nbsp; movies && books , photography (nature && street photography)&nbsp; 📷 &nbsp;, and an assumed && proud 'cat-lady' of two fat Siamese cats. &nbsp;🐈&nbsp; 🐈‍⬛ <h4>
 <p>
